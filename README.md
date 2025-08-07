@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi there 👋    ![Kyubey](https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/Kyubey.gif)
 
+![Stats Card 2](https://awesome-github-stats.azurewebsites.net/user-stats/aseyudex?theme=github&cardType=octocat)
 <!--
 **aseyudex/aseyudex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
